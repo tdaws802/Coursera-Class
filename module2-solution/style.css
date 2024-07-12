@@ -1,11 +1,8 @@
-.trueblue {
-	color: blue;
-	font-weight: bold;
-	font-style: underlined;
-	background-color: red;
-	border-width: 5px black;
+
 #yeah {
 	text-align: center;
+	font-weight: bold;
+	font-size: 20px;
 }
 }
 .truered {
