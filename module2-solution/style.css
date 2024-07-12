@@ -2,15 +2,15 @@
 	color: blue;
 	font-weight: bold;
 	font-style: underlined;
-	background: red;
-	border: 5px black;
+	background-color: red;
+	border-width: 5px black;
 
 }
 .truered {
 	color: red;
 	font-style: italic;
-	background: blue;
-	border: 5px black;
+	background-color: blue;
+	border-width: 5px black;
 }
 
 /*****Large Devices*****/
