@@ -1,3 +1,24 @@
-.blue {
-	color: orange;
+.trueblue {
+	color: blue;
+	font-weight: bold;
+
+}
+.truered {
+	color: red;
+	font-style: italic;
+}
+
+/*****Large Devices*****/
+@media (min-width: 992px) {
+
+}
+
+/*****Medium Devices*****/
+@media (min-width: 768px) and (max-width: 991px) {
+
+}
+
+/*****Mobile Devices*****/
+@media (max-width: 767px) {
+	
 }
