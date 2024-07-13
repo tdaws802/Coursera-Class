@@ -3,6 +3,7 @@
 	float: right;
 	font-weight: bold;
 	font-size: 30px;
+	position: absolute;
 
 }
 body {
@@ -17,6 +18,7 @@ body {
 .box {
     flex: 1; 
     margin: 10px; 
+    border: 5px solid black;
 }
 
 /*****Large Devices*****/
