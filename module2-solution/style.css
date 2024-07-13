@@ -1,11 +1,17 @@
 
 #yeah {
-	float: center;
+	float: right;
 	font-weight: bold;
-	font-size: 20px;
+	font-size: 30px;
+
+}
+body {
+	margin: 0;
+	padding: 0;
+	background-color: lightcoral;
 }
 #box {
-	background-color: dimgray;
+	background-color: slategray;
 }
 
 }
