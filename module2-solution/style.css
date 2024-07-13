@@ -4,17 +4,15 @@
 	font-weight: bold;
 	font-size: 20px;
 }
-
-li {
-	align-content: row;
-
+#box {
+	background-color: dimgray;
 }
+
 }
 .truered {
 	color: red;
 	font-style: italic;
 	background-color: blue;
-	border-width: 5px black;
 	text-align: center;
 
 }
