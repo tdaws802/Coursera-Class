@@ -4,6 +4,10 @@
 	font-weight: bold;
 	font-size: 20px;
 }
+
+ul {
+	align-content: row;
+}
 }
 .truered {
 	color: red;
