@@ -12,29 +12,20 @@
 body {
 	background-color: lightcoral;
 }
-#box {
-	background-color: slategray;
-	padding: 10px 10px 10px 10px;
-	border: 3px solid black;
-	margin: 40px;
-	width: 200px;
 
+
+.container {
+    display: flex; 
 }
 
-}
-.truered {
-	color: red;
-	font-style: italic;
-	background-color: blue;
-	text-align: center;
-
+.box {
+    flex: 1; 
+    margin: 10px; 
 }
 
 /*****Large Devices*****/
 @media (min-width: 992px) {
-	.truered {
-		width: 450px;
-		height: 100px;
+	
 	}
 
 
@@ -42,14 +33,7 @@ body {
 
 /*****Medium Devices*****/
 @media (min-width: 768px) and (max-width: 991px) {
-	div {
-		width: 70%;
-		height: 70%;
-	}
-	p {
-		width: 50%;
-		height: 50%;
-	}
+	
 
 }
 
